@@ -1,5 +1,5 @@
 ## The site is live
-https://fakekriptoapi-reactapp.netlify.app/
+https://fakekriptoapikullanmi.netlify.app/
 
 # Getting Started with Create React App
 
